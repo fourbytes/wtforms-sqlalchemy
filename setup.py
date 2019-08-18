@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(
-    name='WTForms-SQLAlchemy',
+    name='wtforms_sqlalchemy',
     version='0.2dev',
     url='http://github.com/wtforms/wtforms-sqlalchemy/',
     license='BSD',
